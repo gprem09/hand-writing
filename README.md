@@ -7,5 +7,3 @@
 4. hit the spacebar if u mess up and want to clear the screen
 
 feel free to mess around with the colors or the smoothing math.
-
-ramadan mubarak! 🤲🏽💻
